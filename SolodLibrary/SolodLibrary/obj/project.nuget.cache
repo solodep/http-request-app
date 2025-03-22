@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3asvVArA7eQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\solod\\OneDrive\\Рабочий стол\\Alex Solod solution\\SolodLibrary\\SolodLibrary\\SolodLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\solod\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512",
+    "C:\\Users\\solod\\.nuget\\packages\\taglibsharp\\2.3.0\\taglibsharp.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

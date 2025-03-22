@@ -1,0 +1,24 @@
+C:\Users\solod\OneDrive\Рабочий стол\dasdas\SolodLibrary\SolodLibrary\obj\Debug\net8.0\SolodLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solod\OneDrive\Рабочий стол\dasdas\SolodLibrary\SolodLibrary\obj\Debug\net8.0\SolodLibrary.AssemblyInfoInputs.cache
+C:\Users\solod\OneDrive\Рабочий стол\dasdas\SolodLibrary\SolodLibrary\obj\Debug\net8.0\SolodLibrary.AssemblyInfo.cs
+C:\Users\solod\OneDrive\Рабочий стол\dasdas\SolodLibrary\SolodLibrary\obj\Debug\net8.0\SolodLibrary.csproj.CoreCompileInputs.cache
+C:\Users\solod\OneDrive\Рабочий стол\dasdas\SolodLibrary\SolodLibrary\bin\Debug\net8.0\SolodLibrary.deps.json
+C:\Users\solod\OneDrive\Рабочий стол\dasdas\SolodLibrary\SolodLibrary\bin\Debug\net8.0\SolodLibrary.dll
+C:\Users\solod\OneDrive\Рабочий стол\dasdas\SolodLibrary\SolodLibrary\bin\Debug\net8.0\SolodLibrary.pdb
+C:\Users\solod\OneDrive\Рабочий стол\dasdas\SolodLibrary\SolodLibrary\obj\Debug\net8.0\SolodLibrary.csproj.AssemblyReference.cache
+C:\Users\solod\OneDrive\Рабочий стол\dasdas\SolodLibrary\SolodLibrary\obj\Debug\net8.0\SolodLibrary.dll
+C:\Users\solod\OneDrive\Рабочий стол\dasdas\SolodLibrary\SolodLibrary\obj\Debug\net8.0\refint\SolodLibrary.dll
+C:\Users\solod\OneDrive\Рабочий стол\dasdas\SolodLibrary\SolodLibrary\obj\Debug\net8.0\SolodLibrary.pdb
+C:\Users\solod\OneDrive\Рабочий стол\dasdas\SolodLibrary\SolodLibrary\obj\Debug\net8.0\ref\SolodLibrary.dll
+C:\Users\solod\OneDrive\Рабочий стол\Alex Solod solution\SolodLibrary\SolodLibrary\bin\Debug\net8.0\SolodLibrary.deps.json
+C:\Users\solod\OneDrive\Рабочий стол\Alex Solod solution\SolodLibrary\SolodLibrary\bin\Debug\net8.0\SolodLibrary.dll
+C:\Users\solod\OneDrive\Рабочий стол\Alex Solod solution\SolodLibrary\SolodLibrary\bin\Debug\net8.0\SolodLibrary.pdb
+C:\Users\solod\OneDrive\Рабочий стол\Alex Solod solution\SolodLibrary\SolodLibrary\obj\Debug\net8.0\SolodLibrary.csproj.AssemblyReference.cache
+C:\Users\solod\OneDrive\Рабочий стол\Alex Solod solution\SolodLibrary\SolodLibrary\obj\Debug\net8.0\SolodLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solod\OneDrive\Рабочий стол\Alex Solod solution\SolodLibrary\SolodLibrary\obj\Debug\net8.0\SolodLibrary.AssemblyInfoInputs.cache
+C:\Users\solod\OneDrive\Рабочий стол\Alex Solod solution\SolodLibrary\SolodLibrary\obj\Debug\net8.0\SolodLibrary.AssemblyInfo.cs
+C:\Users\solod\OneDrive\Рабочий стол\Alex Solod solution\SolodLibrary\SolodLibrary\obj\Debug\net8.0\SolodLibrary.csproj.CoreCompileInputs.cache
+C:\Users\solod\OneDrive\Рабочий стол\Alex Solod solution\SolodLibrary\SolodLibrary\obj\Debug\net8.0\SolodLibrary.dll
+C:\Users\solod\OneDrive\Рабочий стол\Alex Solod solution\SolodLibrary\SolodLibrary\obj\Debug\net8.0\refint\SolodLibrary.dll
+C:\Users\solod\OneDrive\Рабочий стол\Alex Solod solution\SolodLibrary\SolodLibrary\obj\Debug\net8.0\SolodLibrary.pdb
+C:\Users\solod\OneDrive\Рабочий стол\Alex Solod solution\SolodLibrary\SolodLibrary\obj\Debug\net8.0\ref\SolodLibrary.dll
